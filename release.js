@@ -1,0 +1,3 @@
+funtion isRelease(){
+    return true;
+}
